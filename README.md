@@ -7,9 +7,7 @@ Este repositorio contiene proyectos prácticos de **Machine Learning** donde se 
 - Visualización de resultados
 
 ## Estructura
-- `notebooks/` → Jupyter Notebooks con los experimentos
 - `data/` → Conjuntos de datos de ejemplo
-- `models/` → Modelos entrenados
 
 ## Requisitos
 - Python 3.10+
